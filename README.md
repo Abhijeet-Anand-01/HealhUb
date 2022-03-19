@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.postimg.cc/0jrF0hXM/2-1.png" alt="logo" width="100" height="100"></p> <h1 align="center"> HealhUb</h1>
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)    ![JWoC](https://img.shields.io/badge/JWoC'22-ff8080?style=flat&logo=hand&Color=white)
+
 <h4 align="center">Website: https://skpandey885.github.io/HealhUb/ </h2>
 <h4 align="center">Intro: https://rb.gy/zlvh9r</h2>
 <h>HealhUb is an online HealthCare website which help users Know About Health Tips, Plans with Our Tools, Blogs And Stats.</p>
@@ -29,87 +29,76 @@
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> -->
 <!--   </p> -->
 
-<h4> Star ⭐️the repo to get frequent updates & appreciate the efforts.</h4>
-<img src="https://user-images.githubusercontent.com/75671152/132321870-a1f14163-fece-46cb-b109-12f598a773c5.png" />
+<h2 align = "center"> ◀️ Introduction ▶️ </h2>
+
+<p align="center">HealhUb Is An Online HealthCare Website Which Help You To Find Perfect Health Plans With Our Tools, Blogs & Stats, Provides Valuable Information About Your Health. We'll Help You Find Your Perfect Diet To Become Stronger Than Ever Before. Use Our Tools, Articles & Sections To Renovate Yourself And Get A Healthy Mindset. We Are Serving Across The Globe & We Helped Thousands Of People To Get Their Perfect Body, Mindset with Our Tools, Articles and UIs. We Take care of your body,Because it’s the only place you have to live.<br><br>Seeking for a challenging but fulfilling role which allows us to share knowledge with patients on treatments and medical alternatives available to treat their hearing challenges and utilize our communication skills to reach out to patients.</p>
+<br/><br/>
+
+<h2 align = "center"> ◀️ Functioning ▶️ </h2>
+
+<p class="Details">Our aim is to serve all people through exemplary health care, education, research, and community outreach. Our Website Provides:</p>
+  <ul>
+    <li><b>⏱️ Timely and credible Health content -</b> We provide health related contents, blogs, tips, that's are updated time to time.</li><br>
+    <li><b>🛠️ Valuable tools for managing your health, and 🤝 support to those who seek information -</b> Our various tools help you to manage your health, get information about hospitals, or any other medical issues.</li><br>
+    <li><b>World COVID-19 Stats🌍😷 -</b> Together we fight against COVID-19. We help to get current info and stats all over the world, as well as COVID blogs, Do's & Dont's etc.</li><br>
+    <li><b>Articles Related To Healthcare Issues 📄- </b> Articles related to health care and health issues for tou to develop a better health.</li><br>
+   <li><b>Tools Like BMI Calculator Which Helps User To Find The Body Mass Index 💪🏻 -</b> Know about your Body Mass Index, take care of your ultimate health. </li>
+  </ul>
+<br/><br/>
+
+<h2 align = "center"> ◀️ Tools ▶️ </h2>
+
+<p align ="center">HealhUb provide real-time help support whenever it is required. We porivide various tools to manage your health and support your health related needs</p>
+
+<p class="Details">Our Tools Include:</p>
+  <ul>
+    <li> <b>⬆️⬇️ BMI -</b> Body mass index, or BMI, is a measure of body size. It combines a person’s weight with their height. The results of a BMI measurement can give an idea about whether a person has the correct weight for their height. You can check your Body Mass Index and know about your health, using our BMI tool.</li><br>
+    <li> <b>😷🩺 Medical Help -</b> It's our responsibility to help each other whenever we need. We provide any kind of medical help, checkup, medicine and emergency support, care for well-beings. Contact us for any medical help.</li><br>
+    <li><b> 🏥👨‍⚕️ Nearby Hospitals -</b> We provide you all details of your nearby hospitals. Check anytime about the hospitals, services, current conditions and stats, bed availability etc. Just put your location or prefered hospitals to check.</li>
+    
+  </ul>
+<br/><br/>
+
+<h2 align = "center"> ◀️ Tips ▶️ </h2>
+
+<p class="Details">Good physical and mental health is necessary for all. We provide valuable tips about</p>
+  <ul>
+    <li> <b>🟢 Healthy diet -</b> Know more about Eating healthy diet, Consuming less salt and sugar, Reducing intake of harmful fats, </li><br>
+    <li> <b>⚕️ Physical wellness -</b> Be more active, Check your blood pressure regularly, Get vaccinated, Practice safe sex.</li><br>
+    <li> <b>💝 Mental wellness -</b> Take care of your mental health, Talk to someone you trust if you're feeling down.</li>
+     
+  </ul>
+<br/><br/>
+
+<h2 align = "center"> ◀️ Blogs & Articles ▶️ </h2>
+<p align ="center">Our blog page includes 20+ awesome and helpful health-related blogs, which is for taking care of your health and wellbeings. Know more about </p>
+<ul>
+  <li>What is most poignant about our pandemic is the way people have demonstrated how dearly they wish to live.</li>
+  <li>Eating home-cooked balanced thali will not only keep you and your baby healthy, but it will also keep you away from other chronic diseases, said Dr Meghana Pasi</li>
+  <li>How Zinc Helps Boost Immune Health- Expert Reveals.</li>
+  <li>Practical Tips to Safely Fast During Ramadan: Stay energized and healthy with these expert fasting tips.</li>
+  <li>How weight cycling linked to increased sleep problems in women.</li>
+  <li>How obesity protects against death in severe bacterial infection.</li>
+  <li>Menstrual hygiene problems and tips.</li>
+  <li>Tips for Discussing Mental Health with Children and Teens</li>
+  <li>Post-Traumatic Stress Disorder (PTSD): What you need to know</li>
+</ul><br>
+Expore much from various blogs and articles provided timely.
+<br><br>
+
+<h2 align = "center"> ◀️ Covid Section ▶️ </h2>
+<p class="Details">Together we fight against COVID-19. Be secure with services and information we provide you about Covid. Read Covid blogs, be safe and healthy. Covid section provides-</p>
+  <ul>
+    <li> <b>Covid symptoms-</b> Most common symptoms, Less common symptoms, Serious symptoms.</li><br>
+    <li> <b>Protections -</b> Details about Covid precautions and protections, Using sanitizer, Wearing masks, Washing hands properly etc.</li><br>
+    <li> <b>Do's & Dont's -</b> Know about what we should Do and what shouldn't do, to survive against Covid.</li><br>
+    <li> <b>Covid stats -</b> Get to know about current situation of Covid cases, in different countries.</li><br>
+    <li> <b>Covid Blogs -</b> Blogs and articles about how to care during Covid pandemic. Know more about The rise and impact of Covid, How to communicate in the crisis, Stay optimistic during tough times, Tips for improving mental health etc.</li>
+  </ul>
+<br/><br/>
+
+<h2 align = "center"> 🙏 Thank You 🙏 </h2>
+<p align = "center">Thank you for being a part of us. Wish you a happy and healthy life.</p>
 
 
-  
-<h2 align=center>  How to get started? 🏗 </h2> 
-
-<h4> To start contributing you need to follow the below steps in proper order </h3>
-
-**0.**  Create your own issue or choose one already mentioned in under issues section.
-
-**1.**  Fork & Star [this](https://github.com/skpandey885/HealhUb.git) repo.
-
-**2.**  Clone your fork copy of the project which'll be visible in your account.
-
-```
-git clone --depth 1 https://github.com/<your_user_name>/HealhUb.git
-```
-
-**3.** Navigate to the project directory :file_folder: .
-
-```
-cd HealhUb
-```
-
-**4.** Add a remote upstream to the original repository.
-
-```
-git remote add upstream https://github.com/skpandey885/HealhUb.git
-```
-
-**5.** Check the remotes for the repository.
-
-```
-git remote -v
-```
-
-**6.** It is always advised to take a pull from the upstream repository to your master branch to keep it even with the main project(updated repository).
-
-```
-git pull upstream master(or main)
-```
-
-**7.** Create a new branch.
-
-```
-git checkout -b <your_branch_name>
-```
-
-**8.** Perform your desired changes to the code base.
-
-<p align="center"><img width=35% src="https://media.giphy.com/media/oMHPlvpTvnXGPS7GhX/giphy.gif"></p>
-
-**9.** Track your changes:heavy_check_mark: .
-
-```
-git add . 
-```
-
-**10.** Commit your changes .
-
-```
-git commit -m "Message related to changes you made in the code"
-```
-
-**11.** Push the committed changes in your feature branch to your remote repo.
-
-```
-git push -u origin <your_branch_name>
-```
-
-**12.** To create a pull request, click on `compare and pull requests`. Please ensure that both the branches are even in order to avoid merge conficts
-
-**13.** Add a title and description to your PR explaining the features you added.
-
-**14.** Click on `Create Pull Request`.
-
-**15.** Congrats !! You made your first PR 🥳.
-
-<p align="center"><img width=35% src="https://media.giphy.com/media/TdfyKrN7HGTIY/giphy.gif"></p>
-<hr>
-
- ✨This project and everyone participating in it is governed by **[Code Of Conduct](https://github.com/skpandey885/HealhUb/blob/ff0d5e26c7e6db3ffd7851bccae2acc30a840106/Code%20Of%20Conduct.md)** .By participating, you are expected to uphold this code.✨
 
